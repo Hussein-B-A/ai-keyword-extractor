@@ -31,3 +31,7 @@ npm run dev
 ```
 
 note: the dev server is set on port 3000
+
+# License
+
+MIT License
